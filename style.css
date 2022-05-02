@@ -1,0 +1,18 @@
+body {
+  background-color: #718355;
+}
+
+.grid {
+  width: 200px;
+  height: 400px;
+  background-color: #87986a;
+
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.grid div {
+  height: 20px;
+  width: 20px;
+  background-color: #cfe1b9;
+}
